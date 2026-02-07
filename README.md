@@ -1,7 +1,4 @@
-Got it 👍
-You want a **plain GitHub-style `README.md` written in Markdown**, using proper symbols (`#`, `##`, `-`, `*`, code blocks, etc.) — **not wrapped in any special blocks** — so you can directly paste it into GitHub and it renders correctly.
 
-Below is a **clean, professional Markdown README** exactly how GitHub expects it.
 
 ---
 
