@@ -7,3 +7,15 @@ https://img.shields.io/badge/Groq-API-orange.svg
 https://img.shields.io/badge/License-MIT-green.svg
 
 ✨ Features
+
+🔒 Security First
+
+*Enterprise-grade document sanitization
+
+*Malicious content detection & removal
+
+*File size and format validation (PDF only)
+
+*Secure API key management with rate limiting
+
+*Input validation and content sanitization
