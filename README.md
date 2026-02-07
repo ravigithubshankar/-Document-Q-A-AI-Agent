@@ -8,7 +8,7 @@ AI-powered document analysis with enterprise-grade security, research integratio
 ![Groq API](https://img.shields.io/badge/Groq-API-orange.svg)
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
 
----
+
 
 ## ✨ Features
 
@@ -64,8 +64,8 @@ AI-powered document analysis with enterprise-grade security, research integratio
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/enterprise-document-qa.git
-cd enterprise-document-qa
+git clone https://github.com/ravigithubshankar/-Document-Q-A-AI-Agent.git
+cd Document-Q-A-AI-Agent
 ````
 
 ### 2. Create and activate a virtual environment (Recommended)
@@ -281,63 +281,7 @@ pip install groq
 * Rate-limited API access
 * Secure error handling
 
----
 
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create a feature branch
-
-```bash
-git checkout -b feature/AmazingFeature
-```
-
-3. Commit changes
-
-```bash
-git commit -m "Add AmazingFeature"
-```
-
-4. Push branch
-
-```bash
-git push origin feature/AmazingFeature
-```
-
-5. Open a Pull Request
-
----
-
-## 📄 License
-
-This project is licensed under the **MIT License**.
-
----
-
-## 🙏 Acknowledgments
-
-* Groq for LLM APIs
-* Streamlit for the UI framework
-* ArXiv for academic research access
-
----
-
-## 🌟 Support
-
-If you find this project useful, please ⭐ star the repository on GitHub!
-
-Happy Document Analyzing 📚🤖
-
-```
-
----
-
-If you want, I can also:
-- ✅ Make it **shorter**
-- ✅ Convert it to **enterprise-style README**
-- ✅ Add **screenshots section**
-- ✅ Add **Docker setup**
-- ✅ Add **deployment instructions**
 
 Just tell me 👍
 ```
