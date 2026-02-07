@@ -10,12 +10,12 @@ https://img.shields.io/badge/License-MIT-green.svg
 
 🔒 Security First
 
-*Enterprise-grade document sanitization
+* Enterprise-grade document sanitization
 
-*Malicious content detection & removal
+* Malicious content detection & removal
 
-*File size and format validation (PDF only)
+* File size and format validation (PDF only)
 
-*Secure API key management with rate limiting
+* Secure API key management with rate limiting
 
-*Input validation and content sanitization
+* Input validation and content sanitization
