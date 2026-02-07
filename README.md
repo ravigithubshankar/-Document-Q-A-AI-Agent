@@ -281,7 +281,3 @@ pip install groq
 * Rate-limited API access
 * Secure error handling
 
-
-
-Just tell me 👍
-```
