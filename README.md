@@ -1,8 +1,4 @@
 
-
----
-
-````md
 # 📚 Enterprise Document Q&A Agent
 
 AI-powered document analysis with enterprise-grade security, research integration, and a professional UI.
